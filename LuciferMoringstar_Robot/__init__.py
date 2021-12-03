@@ -25,17 +25,25 @@ Bot Owner Only
 /logger  Get Logs
 /delete Delete File From Database
 
+
+
+@dev_mirshad 
+
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  Telegram Bot
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : dev_mirshad 
+
+➥ Maintenance : Amal, Noufal, mirshad 
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ Support : [Instagram](https://instagram.com/mirshad_kvr?utm_medium=copy_link)
+
+➥ Report. : @dev_mirshad
+
 """
